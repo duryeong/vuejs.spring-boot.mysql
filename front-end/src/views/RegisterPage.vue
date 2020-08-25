@@ -48,7 +48,7 @@
         <li class="list-inline-item"><a href="#">About</a></li>
         <li class="list-inline-item"><a href="#">Terms of Service</a></li>
         <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
-        <li class="list-inline-item"><a href="https://github.com/duryeong/vuejs.spring-boot.mysql" target="_blank">GitHub</a></li>
+        <li class="list-inline-item"><a href="https://github.com/taskagile/vuejs.spring-boot.mysql" target="_blank">GitHub</a></li>
       </ul>
     </footer>
   </div>
@@ -105,6 +105,7 @@ export default {
     }
   }
 }
+
 </script>
 
 <style lang="scss" scoped>
